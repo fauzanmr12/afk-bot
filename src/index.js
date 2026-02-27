@@ -11,7 +11,7 @@ const client = new Client({
 });
 
 // PASTIKAN TOKEN ANDA SUDAH DI-RESET DAN MASUKKAN YANG BARU DI SINI
-const TOKEN = 'MTQ3Njk0MjkxNTkzMzcwMDI3OA.GB5jc-.WiXqNd63zoQ0p2QrMOJIvoQVdVJy_nixsWVsxw';
+const TOKEN = 'mytoken';
 
 client.once(Events.ClientReady, (readyClient) => {
     console.log(`Bot ${readyClient.user.tag} sudah online!`);
