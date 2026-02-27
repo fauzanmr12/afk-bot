@@ -1,0 +1,26 @@
+{
+  "name": "afk-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fauzanmr12/afk-bot.gi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fauzanmr12/afk-bot.gi/issues"
+  },
+  "homepage": "https://github.com/fauzanmr12/afk-bot.gi#readme",
+  "description": "",
+  "dependencies": {
+    "@discordjs/voice": "^0.19.0",
+    "@snazzah/davey": "^0.1.9",
+    "discord.js": "^14.25.1",
+    "libsodium-wrappers": "^0.8.2"
+  }
+}

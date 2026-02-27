@@ -1,0 +1,14 @@
+# Mengabaikan folder dependency (ukurannya sangat besar)
+node_modules/
+
+# Mengabaikan file yang berisi password/API key rahasia!
+.env
+
+# Mengabaikan file log
+npm-debug.log*
+yarn-debug.log*
+*.log
+
+# Mengabaikan folder hasil build
+dist/
+build/
