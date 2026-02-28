@@ -18,9 +18,12 @@
   "homepage": "https://github.com/fauzanmr12/afk-bot.gi#readme",
   "description": "",
   "dependencies": {
+    "@discord-player/extractor": "^7.1.0",
     "@discordjs/voice": "^0.19.0",
     "@snazzah/davey": "^0.1.9",
+    "discord-player": "^7.1.0",
     "discord.js": "^14.25.1",
+    "ffmpeg-static": "^5.3.0",
     "libsodium-wrappers": "^0.8.2"
   }
 }
